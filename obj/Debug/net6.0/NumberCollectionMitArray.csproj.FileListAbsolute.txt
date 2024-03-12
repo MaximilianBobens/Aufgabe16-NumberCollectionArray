@@ -1,0 +1,14 @@
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\bin\Debug\net6.0\NumberCollectionMitArray.exe
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\bin\Debug\net6.0\NumberCollectionMitArray.deps.json
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\bin\Debug\net6.0\NumberCollectionMitArray.runtimeconfig.json
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\bin\Debug\net6.0\NumberCollectionMitArray.dll
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\bin\Debug\net6.0\NumberCollectionMitArray.pdb
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\obj\Debug\net6.0\NumberCollectionMitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\obj\Debug\net6.0\NumberCollectionMitArray.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\obj\Debug\net6.0\NumberCollectionMitArray.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\obj\Debug\net6.0\NumberCollectionMitArray.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\obj\Debug\net6.0\NumberCollectionMitArray.dll
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\obj\Debug\net6.0\refint\NumberCollectionMitArray.dll
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\obj\Debug\net6.0\NumberCollectionMitArray.pdb
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\obj\Debug\net6.0\NumberCollectionMitArray.genruntimeconfig.cache
+C:\Users\maxim\RiderProjects\NumberCollectionMitArray\NumberCollectionMitArray\obj\Debug\net6.0\ref\NumberCollectionMitArray.dll
