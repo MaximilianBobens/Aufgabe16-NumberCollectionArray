@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberCollectionMitArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d48b555c6e999aed579405dff4a30ed153747070")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberCollectionMitArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberCollectionMitArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
